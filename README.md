@@ -1,4 +1,11 @@
+
+
 # DesafioConsumoDatos
+
+<img width="588" alt="Captura de pantalla chat" src="https://github.com/user-attachments/assets/b37576d4-849a-4787-8900-fd26458523c4" />
+
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
